@@ -1,4 +1,4 @@
-![](http://i.imgur.com/fMlUlUUh.gif)
+![](https://media.giphy.com/media/kHHmgQFD7S8tjz6Gru/giphy.gif)
 
 I am Electrical & Electronics Engineering Stydent from Malaysia currently studying at University of Southampton. I write blog posts and develop funny creations on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
 
@@ -18,7 +18,7 @@ I am familiar with including **Robotics**, **Blockchain**, and **Internet of Thi
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Wall-E using Rero](https://hankrobot.wordpress.com/2017/10/12/project-wall-e-by-chia-tze-hank-jensen-jazz-cher-and-aw-yong-tuck-weng/)
+- [I built a Wall-E Robot!](https://hankrobot.wordpress.com/2017/10/12/project-wall-e-by-chia-tze-hank-jensen-jazz-cher-and-aw-yong-tuck-weng/)
 - [Creating a friendly beach rover to pick up cigarette-butts by the beach](https://hankrobot.wordpress.com/2019/04/12/meet-insanity-your-friendly-beach-rover-to-pick-up-cigarette-butts-by-the-beach/)
 - [Created a snake robot for a competition!](https://hankrobot.wordpress.com/2017/10/14/snake-robot/)
 - [Digitizing property assets using NEM blockchain](https://hankrobot.wordpress.com/2018/09/17/prop-coins-by-chia-tze-hank-ivan-ling-ting-yang-do-wen-rei-delveer-singh-and-khee-ri-han/)
