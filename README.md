@@ -1,5 +1,6 @@
-![Hello](https://media.giphy.com/media/kHHmgQFD7S8tjz6Gru/giphy-downsized.gif)
-
+<div align="center">
+<img src="https://media.giphy.com/media/kHHmgQFD7S8tjz6Gru/giphy-downsized.gif" width="48">
+</div>
 I am Electrical & Electronics Engineering Stydent from Malaysia currently studying at University of Southampton. I write blog posts and develop funny creations on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
 
 You can see what I am currently up to on [hankrobot.wordpress.com][1].
