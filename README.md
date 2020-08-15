@@ -1,6 +1,4 @@
-[![Hello 👋🏻](https://i.imgur.com/ZTRtnGO.mp4)][1]
-
-Hey 👋🏻,
+[![Hello 👋🏻](https://imgur.com/fMlUlUU)][1]
 
 I am Electrical & Electronics Engineering Stydent from Malaysia currently studying at University of Southampton. I write blog posts and develop funny creations on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
 
