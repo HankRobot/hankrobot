@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/kHHmgQFD7S8tjz6Gru/giphy-downsized.gif" width="48">
+<img src="https://media.giphy.com/media/kHHmgQFD7S8tjz6Gru/giphy-downsized.gif" width="100">
 </div>
 I am Electrical & Electronics Engineering Stydent from Malaysia currently studying at University of Southampton. I write blog posts and develop funny creations on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
 
