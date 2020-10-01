@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/fU43JVDDEdu4ARzo8f/giphy-downsized.gif">
+<img src="https://github.com/HankRobot/Spider-Robot/blob/master/spider_robot.gif">
 </div>
 
 
