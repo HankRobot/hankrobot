@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/HankRobot/Spider-Robot/blob/master/spider_robot.gif">
+<img src="https://github.com/HankRobot/Spider-Robot/blob/master/Final%20Spider%20Robot.gif">
 </div>
 
 
