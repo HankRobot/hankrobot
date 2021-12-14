@@ -22,7 +22,7 @@ I am familiar with including **Robotics**, **Blockchain**, and **Internet of Thi
 
 <!-- BLOG-POST-LIST:START -->
 - [I built a Wall-E Robot!](https://hankbotics.com/2017/10/12/project-wall-e-by-chia-tze-hank-jensen-jazz-cher-and-aw-yong-tuck-weng/)
-- [Creating a friendly beach rover to pick up cigarette-butts by the beach](https://hankbotics.com/2019/04/12/meet-insanity-your-friendly-beach-rover-to-pick-up-cigarette-butts-by-the-beach/)
+- [Creating a friendly beach rover to pick up cigarette-butts by the beach](https://hankbotics.com/2019/04/12/beachrover/)
 - [Created a snake robot for a competition!](https://hankbotics.com/2017/10/14/snake-robot/)
 - [Digitizing property assets using NEM blockchain](https://hankbotics.com/2018/09/17/prop-coins-by-chia-tze-hank-ivan-ling-ting-yang-do-wen-rei-delveer-singh-and-khee-ri-han/)
 - [Integrating blockchain with Internet of Things using NEM blockchain](https://hankbotics.com/2019/09/04/decentsensors/)
