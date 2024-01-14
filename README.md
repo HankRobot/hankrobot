@@ -3,7 +3,7 @@
 </div>
 
 
-I am Electrical & Electronics Engineering Stydent from Malaysia currently studying at University of Southampton. I write blog posts and develop funny creations on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
+Hi there! I am Automation Engineer from Malaysia currently working at Mercedes AMG High Performance Powertrains Ltd in the UK. I write blog posts and develop funny creations during my spare time on Robotics, Blockchain and Internet-of-Things using C++, C, C#, Typescript and Python.
 
 You can see what I am currently up to on [hankbotics.com][1].
 
